@@ -1,0 +1,51 @@
+Claim Description,Coverage Code,Accident Source
+Patient injured back while lifting heavy boxes at warehouse,WC,Manual Handling
+Vehicle rear-ended at traffic light causing whiplash injury,AUTO,Collision
+Slip and fall on wet floor at grocery store lobby,GL,Slip/Fall
+House fire caused by electrical short circuit in kitchen,PROP,Fire
+Employee fell from scaffold at construction site fracturing leg,WC,Fall from Height
+Water damage to basement due to burst pipe during winter,PROP,Water Damage
+Bicycle rider hit by opening car door sustaining knee injury,AUTO,Dooring
+Customer tripped on uneven pavement outside retail store,GL,Trip/Fall
+Theft of tools and equipment from locked company van,AUTO,Theft
+Worker developed repetitive strain injury from keyboard use,WC,Ergonomic
+Hail storm caused significant roof and vehicle damage,PROP,Natural Disaster
+Dog bite injury to delivery driver at residential property,GL,Animal Attack
+Forklift collision injuring warehouse operative,WC,Equipment Accident
+Flood damage to commercial property ground floor,PROP,Flood
+Hit and run accident causing damage to parked vehicle,AUTO,Hit and Run
+Employee slipped on icy steps at office entrance,WC,Slip/Fall
+Windshield cracked by stone thrown from passing truck,AUTO,Road Debris
+Visitor fell down broken staircase at hotel injuring hip,GL,Fall
+Vandalism damage to company vehicle overnight,AUTO,Vandalism
+Chemical spill at factory causing skin burns to worker,WC,Hazardous Material
+Lightning strike caused fire damage to residential garage,PROP,Natural Disaster
+Customer allergic reaction to restaurant food causing hospitalization,GL,Food Incident
+Driver ran red light hitting another vehicle at intersection,AUTO,Collision
+Roof collapsed under heavy snow load damaging interior,PROP,Natural Disaster
+Office worker developed carpal tunnel after extended computer use,WC,Ergonomic
+Scaffolding fell on passerby causing head injury outside shop,GL,Falling Object
+Vehicle stolen from company car park overnight,AUTO,Theft
+Burst water main flooded storage room destroying inventory,PROP,Water Damage
+Employee burned hand on unguarded machinery,WC,Machinery
+Pedestrian struck by reversing delivery truck in car park,AUTO,Collision
+Tree fell onto house roof during storm causing structural damage,PROP,Natural Disaster
+Child slipped on wet changing room tiles at leisure centre,GL,Slip/Fall
+Multi-vehicle pileup on motorway during foggy conditions,AUTO,Collision
+Worker exposed to asbestos during renovation developed illness,WC,Hazardous Material
+Shoplifter assault on security guard causing facial injuries,GL,Assault
+Electrical fire gutted server room at office building,PROP,Fire
+Cyclist hit pothole and was thrown causing shoulder fracture,AUTO,Road Defect
+Gas explosion at restaurant causing structural damage,PROP,Explosion
+Employee developed hearing loss from prolonged machinery noise,WC,Noise Exposure
+Customer injured by falling display shelf in supermarket,GL,Falling Object
+Drunk driver crashed into garden wall of residential property,PROP,Collision
+Vehicle aquaplaned and hit central reservation on motorway,AUTO,Weather
+Contractor cut finger with circular saw on building site,WC,Equipment Accident
+Burst radiator caused water damage to hotel bedroom ceiling,PROP,Water Damage
+Elderly patron fell in restaurant bathroom fracturing wrist,GL,Fall
+Unattended candle caused bedroom fire at rental property,PROP,Fire
+Rear collision on motorway due to sudden braking by lead vehicle,AUTO,Collision
+Worker suffered heat stroke during summer outdoor maintenance,WC,Environmental
+Graffiti vandalism caused extensive damage to commercial property exterior,PROP,Vandalism
+Patron choked on foreign object found in meal at pub,GL,Food Incident
